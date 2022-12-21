@@ -17,8 +17,8 @@ eda_logo = pygame.transform.scale(eda_logo_large, (75, 75))
 eda_logo_size = eda_logo.get_size()
 
 x, y = 0, 0
-x_component = 5
-y_component = 5
+x_component = 40
+y_component = 40
 
 while True :
     clock.tick(60)
